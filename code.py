@@ -27,3 +27,4 @@ while count!=0:
     count-=1
     time.sleep(0.8)
 print(''.join(string[::-1]))
+#i am doing this for the first time.
